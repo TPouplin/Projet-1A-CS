@@ -86,7 +86,7 @@ def anim_pygame(size, rayon, num_antenna_limit):
         
         # Affichage de la grille
         pygame.draw.rect(fenetre, (255,255,255), Rect(0, 0, w, h))
-        fond = pygame.image.load("CODE/Solveur/Capture.jpg").convert()
+        fond = pygame.image.load("Solveur\Capture.jpg").convert()
         fenetre.blit(fond, (0,0))
         affichage(size, rail_list, l_antennes, rayon, fenetre)
         pygame.display.flip()

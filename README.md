@@ -5,3 +5,6 @@ Projet "optimisation de placement d'antenne" du pole IA à CentraleSupelec. Proj
 * 4-approximation : Pygame
 * Solveur : Pyomo, GLPK, Pygame
 
+# Pour essayer les méthodes de résolutions :
+
+Exécuter le code du fichier visualisation
