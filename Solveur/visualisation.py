@@ -1,4 +1,4 @@
-from Couverture_100_finale import *
+from Couverture_100 import *
 import pygame
 from pygame.locals import *
 import numpy as np
